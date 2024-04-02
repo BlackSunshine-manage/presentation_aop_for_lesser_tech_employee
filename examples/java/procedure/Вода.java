@@ -1,0 +1,4 @@
+package procedure;
+
+class Вода {
+}
